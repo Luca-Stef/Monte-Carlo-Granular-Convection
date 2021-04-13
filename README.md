@@ -1,1 +1,1 @@
-# Monte-Carlo-Granular-Convection
+# Monte Carlo Granular Convection
